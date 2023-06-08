@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝🏻 I'm currently working on an enterprise of software developer 🤝🏻<br>💻 I'm looking to exploit my abilities on my own projects 💻<br>🌟 I'm currently learning more about microservices and web design 🌟<br>👥 I like to work on teamwork and I'm proactive 👥
+🤝🏻 I'm currently working on an enterprise of software developer 🏻<br>💻 I'm looking to exploit my abilities on my own projects <br>🌟 I'm currently learning more about microservices and web design <br>👥 I like to work on teamwork and I'm proactive 
 
 
 ## 🌐 Socials:
